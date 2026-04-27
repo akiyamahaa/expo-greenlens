@@ -4,7 +4,7 @@ GreenLens – Ứng dụng môi trường thông minh, giúp bạn nhận diện
 
 Quét nhận diện rác thải bằng AI, tra cứu thư viện môi trường, đọc bài viết xanh và xây dựng lối sống bền vững! 🔍✨
 
-![alt text](https://res.cloudinary.com/dks2uuwb6/image/upload/v1777217182/de0ab979-c892-41eb-afb0-410ce66feb0c.png)
+
 
 ## [DEMO-VIDEO - DRIVE LINK](https://res.cloudinary.com/dks2uuwb6/video/upload/v1777218594/ScreenRecording_04-26-2026_22-45-00_1_mq7e1u.mov)
 
